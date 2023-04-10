@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Wordle-Redux/static/css/main.31d6cfe0.css",
+    "main.js": "/Wordle-Redux/static/js/main.489e5541.js",
+    "static/js/787.e01666d6.chunk.js": "/Wordle-Redux/static/js/787.e01666d6.chunk.js",
+    "index.html": "/Wordle-Redux/index.html",
+    "main.489e5541.js.map": "/Wordle-Redux/static/js/main.489e5541.js.map",
+    "787.e01666d6.chunk.js.map": "/Wordle-Redux/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.489e5541.js"
+  ]
+}
